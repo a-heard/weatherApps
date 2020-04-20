@@ -1,0 +1,26 @@
+{
+  "name": "weatherapps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "weather.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-heard/weatherApps.git"
+  },
+  "author": "Aisha Heard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a-heard/weatherApps/issues"
+  },
+  "homepage": "https://github.com/a-heard/weatherApps#readme",
+  "dependencies": {
+    "jquery": "^3.5.0",
+    "moment": "^2.24.0",
+    "moment-timezone": "^0.5.28",
+    "request": "^2.88.2",
+    "yargs": "^15.3.1"
+  }
+}
