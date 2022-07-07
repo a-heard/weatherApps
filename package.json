@@ -18,7 +18,7 @@
   "homepage": "https://github.com/a-heard/weatherApps#readme",
   "dependencies": {
     "jquery": "^3.5.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "moment-timezone": "^0.5.28",
     "request": "^2.88.2",
     "yargs": "^15.3.1"
